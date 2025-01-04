@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @nazaninsaedi
-- 👀 I’m interested in Teck & I am student at Leeds Beckett University 
-- 🌱 I’m currently learning JS & python
-- 💞️ I’m looking to collaborate on Technology
-- 📫 How to reach me nazaninsaedi088@gmail.com 
+# 👋 Hi there, I'm Nazanin Saedi!
+🎓 **Education**:
+- Master of Management Information Technology 2016
+- Bachelor of Software Engineering 2012
+- Currently studying Computer Science at Leeds Beckett University 2024
 
-<!---
-nazaninsaedi/nazaninsaedi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **About Me**:
+- 🎓 Computer Science graduate with a passion for software development and data science.
+
+- 🌱 Always learning and exploring new technologies.
+
+💻 **Technologies & Tools**:
+- **Languages**: Python, JavaScript, Java, C++
+- **Web Development**: HTML, CSS, React, Node.js
+- **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow
+- **Databases**: MySQL, MongoDB
+- **Tools**: Git, Docker, Kubernetes, Jenkins
+
+📫 **How to reach me**:
+- Email: [nazaninsaedi088@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/nazanin-saedi-a2bbbb233
+
+
+🌟 **Fun Facts**:
+- I love solving puzzles and playing chess in my free time.
+- I'm an avid traveler and enjoy capturing moments through photography.
+
+---
+
+⭐️ From [nazaninsaedi](https://github.com/nazaninsaedi)
