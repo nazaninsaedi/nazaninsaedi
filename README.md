@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Nazanin Saedi!
 🎓 **Education**:
+- Currently studying MEng Computer Science at Leeds Beckett University 2024-2028
 - Master of Management Information Technology 2016
 - Bachelor of Software Engineering 2012
-- Currently studying Computer Science at Leeds Beckett University 2024
 
 🎓 **About Me**:
 - 🎓 Computer Science graduate with a passion for software development and data science.
@@ -17,12 +17,12 @@
 - **Tools**: Git, Docker, Kubernetes, Jenkins
 
 📫 **How to reach me**:
-- Email: [nazaninsaedi088@gmail.com]
+- Email: n.saedi2389@student.leedsbeckett.ac.uk
+- Email: [nazaninsaedi088@gmail.com]|
 - LinkedIn: https://www.linkedin.com/in/nazanin-saedi-a2bbbb233
 
 
 🌟 **Fun Facts**:
-- I love solving puzzles and playing chess in my free time.
 - I'm an avid traveler and enjoy capturing moments through photography.
 
 ---
